@@ -5,9 +5,6 @@ digtive custom CI Foundation
 code here is custom codeigniter structure by creative crew, build digital innovation, share everythings.
 
 
-*******************
-writen by bagussjm
-*******************
 
 CEO & Founder Digtive
 
